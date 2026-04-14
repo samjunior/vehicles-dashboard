@@ -81,3 +81,15 @@ fig3 = px.histogram(
     title=f'Distribuição de preço: {m1} vs {m2}'
 )
 st.plotly_chart(fig3, use_container_width=True)
+
+# ── 5. Dispersão: quilometragem vs preço ─────────────────────
+st.header('Relação entre quilometragem e preço')
+
+# gráfico de dispersão para visualizar correlação entre odômetro e preço
+fig4 = px.scatter(
+    car_data,
+    x='odometer',
+    y='price',
+    title='Quilometragem vs Preço'
+)
+st.plotly_chart(fig4, use_container_width=True)

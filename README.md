@@ -4,15 +4,18 @@ Aplicativo web de análise exploratória de anúncios de venda de carros nos EUA
 
 ## Funcionalidades
 
-- Histograma da distribuição de quilometragem (odômetro)
-- Gráfico de dispersão entre quilometragem e preço
-- Visualizações interativas via checkboxes
+- Visualizador de dados com filtro por fabricante
+- Tipos de veículo por fabricante
+- Histograma de condição vs ano do modelo
+- Comparador de distribuição de preço entre fabricantes
+- Dispersão entre quilometragem e preço
 
 ## Tecnologias
 
 - Python, Pandas, Plotly Express, Streamlit
 - Deploy: Render
 
-## Acesse o app
+## Links
 
-https://vehicles-dashboard-36qo.onrender.com
+-  App: https://vehicles-dashboard-36qo.onrender.com
+-  Repositório: https://github.com/SEU_USUARIO/vehicles-dashboard
