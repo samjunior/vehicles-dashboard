@@ -18,4 +18,4 @@ Aplicativo web de análise exploratória de anúncios de venda de carros nos EUA
 ## Links
 
 -  App: https://vehicles-dashboard-36qo.onrender.com
--  Repositório: https://github.com/SEU_USUARIO/vehicles-dashboard
+-  Repositório: https://github.com/samjunior/vehicles-dashboard/
